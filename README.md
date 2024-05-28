@@ -1,7 +1,5 @@
 # Physics-informed Deep Learning to quantify anomalies for real-time fault mitigation in 3D printing
 
-PIDLQARTFM3D
-
 In 3D printing processes, there are many thermal stress related defects that can have a significant negative impact on the shape
 and size of the structure. Such anomalies in the heat transfer of the printing process need to be detected at an early stage.
 Understanding heat transfer is crucial, and simulationmodels can offer insightswhile reducing the need for costly experiments.
